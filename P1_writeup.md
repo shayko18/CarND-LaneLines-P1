@@ -7,8 +7,13 @@
 **Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
+	* Make a pipeline that finds lane lines on the road
+	* Reflect on your work in a written report
+
+**Commited Files:**
+	1) P1.ipynb - script for the project 
+	2) P1_extra.ipynb - script for the "extra" project 
+	3) P1_writeup.md - writeup report (this file)
 
 
 [//]: # (Image References)
